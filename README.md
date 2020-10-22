@@ -1,8 +1,8 @@
 # Whiskey page
 
-![alt](link) (bootstrap4/images/readme_photo.jpg "Readme photo")
+![alt](link) (../images/readme_photo.jpg "Readme photo")
 
-![GitHub Logo](bootstrap4/images/readme_photo.jpg
+![GitHub Logo](../images/readme_photo.jpg
 Format: ![Alt Text](url)
 
 ### Hello everyone!
@@ -12,14 +12,11 @@ a (Whiskey) web page. In order to practice Bootstrap and its components, I decid
 I changed the background colour, style and pictures on the "Quotes" section.
 I made the last "Monthly favourites" section by myself.
 
-My web page can be found on [this link](STAVILINK )
+My web page can be found on [this link](https://gillem.github.io/bootstrap4/.)
 
 
 
-
-
-
-Programs
+How
 -------------
 
 The website is done by using
@@ -28,27 +25,19 @@ The website is done by using
 - **CSS** 
 - **Bootstrap**  
 
-
-
-
-
-
-
-
-
-
-
-
-
-Markdown
+WIth the help of
 -------------
+- **Google Fonts**
+- **Font Awesome** 
 
-...is really just ordinary text, *plain and simple*. How is it good for you?
 
-- You just **type naturally**, and the result looks good.
-- You **don't have to worry** about clicking formatting buttons.
-  - Or fiddling with indentation. (Two spaces is all you need.)
+Pictures
+-------------
+I used photos from [Unsplash website](https://unsplash.com/photos/dmkmrNptMpw) from which site the pictures
+can be used freely wether for commercial and non-commercial purposes.
 
-To see what else you can do with Markdown (including **tables**, **images**, **numbered lists**, and more) take a look at the [Cheatsheet][1]. And then try it out by typing in this box!
+  - [Picture 1](https://unsplash.com/photos/dmkmrNptMpw)
+  - [Picture 2](https://unsplash.com/photos/_H6wpor9mjs)
+  - [Picture 3](https://unsplash.com/photos/RiDxDgHg7pw)
 
-[1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+
