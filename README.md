@@ -1,9 +1,10 @@
-# Whiskey page
+## Whiskey page
+***
 
-![alt](link) (../images/readme_photo.jpg "Readme photo")
+[link to Whiskey page](https://gillem.github.io/bootstrap4/.)
 
-![GitHub Logo](../images/readme_photo.jpg
-Format: ![Alt Text](url)
+![pic](images/whiskey_page.png)
+
 
 ### Hello everyone!
 
