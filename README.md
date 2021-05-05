@@ -1,7 +1,7 @@
 ## Whiskey page
 ***
 
-[link to Whiskey page](https://gillem.github.io/bootstrap4/.)
+[link to Whiskey page](https://gillem.github.io/Whisky_page/.)
 
 ![pic](images/whiskey_page.png)
 
